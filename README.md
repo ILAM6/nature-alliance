@@ -1,2 +1,2 @@
 # nature-alliance
-Solution to Nature alliance
+The solution to nature alliance
